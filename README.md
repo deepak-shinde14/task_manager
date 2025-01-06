@@ -18,7 +18,8 @@ A simple and interactive Task Management application built with **React** that h
 
 ## Demo
 
-![image](https://github.com/user-attachments/assets/dd52aeda-f967-4f7f-befe-1e2cc2c0c00e)
+![image](https://github.com/user-attachments/assets/46261066-71b7-4269-bec9-7b8e7792c139)
+
 
 ## Tech Stack
 
